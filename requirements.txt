@@ -1,4 +1,10 @@
 scipy
-numpy
-librosa
-matplotlib
+numpy~=1.23.4
+librosa~=0.9.2
+matplotlib~=3.5.3
+ffmpeg
+ffprobe
+fastapi~=0.87.0
+ipython~=8.6.0
+pydub~=0.25.1
+uvicorn
